@@ -1,0 +1,9 @@
+#navigation{
+    background-color: #2874f0;
+    padding: 5px;
+}
+
+#navigation a{
+    color: white;
+    font-weight: 500;
+}
